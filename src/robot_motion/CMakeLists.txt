@@ -1,2 +1,2 @@
 add_executable(robot_motion main.cpp)
-target_link_libraries(robot_motion)
+target_link_libraries(robot_motion gtsam)
