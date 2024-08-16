@@ -7,3 +7,4 @@ add_subdirectory(gtsam)
 include_directories(${GTSAM_INCLUDE_DIR})
 
 add_subdirectory(src/robot_motion)
+add_subdirectory(src/robot_localization_gps)

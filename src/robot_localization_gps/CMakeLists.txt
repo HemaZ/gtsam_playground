@@ -1,0 +1,2 @@
+add_executable(robot_localization_gps main.cpp)
+target_link_libraries(robot_localization_gps gtsam)
